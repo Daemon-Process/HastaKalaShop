@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hasta-Kala Shop</string>
+    <string name="login_title">हस्त-कला Shop</string>
+    <string name="tagline">Your Artisan Business Partner</string>
+    <string name="btn_enter_shop">Enter My Shop →</string>
+    <string name="hint_username">Your Name (Artisan)</string>
+    <string name="hint_shop_name">Shop Name</string>
+    <string name="hint_password">Password (min 4 chars)</string>
+    <string name="quick_bill">Quick Bill 🛒</string>
+    <string name="stock_overview">Stock Overview 📦</string>
+    <string name="income_log">Income Log 💰</string>
+    <string name="best_sellers">Best Sellers 🏆</string>
+    <string name="low_stock_alert">Low Stock Alert!</string>
+    <string name="sale_recorded">Sale Recorded!</string>
+    <string name="confirm_sale">Confirm Sale</string>
+    <string name="cancel">Cancel</string>
+    <string name="record_sale">Record Sale</string>
+    <string name="this_week">This Week</string>
+    <string name="this_month">This Month</string>
+</resources>

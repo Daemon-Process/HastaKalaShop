@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "com.hastakala.shop.app-merged_res-58:/layout_item_sale_row.xml.flat",
+        "source": "com.hastakala.shop.app-main-60:/layout/item_sale_row.xml"
+    },
+    {
+        "merged": "com.hastakala.shop.app-merged_res-58:/layout_item_stock_row.xml.flat",
+        "source": "com.hastakala.shop.app-main-60:/layout/item_stock_row.xml"
+    },
+    {
+        "merged": "com.hastakala.shop.app-merged_res-58:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.hastakala.shop.app-main-60:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.hastakala.shop.app-merged_res-58:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.hastakala.shop.app-main-60:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.hastakala.shop.app-merged_res-58:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.hastakala.shop.app-main-60:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.hastakala.shop.app-merged_res-58:/layout_activity_income.xml.flat",
+        "source": "com.hastakala.shop.app-main-60:/layout/activity_income.xml"
+    },
+    {
+        "merged": "com.hastakala.shop.app-merged_res-58:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.hastakala.shop.app-main-60:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.hastakala.shop.app-merged_res-58:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.hastakala.shop.app-main-60:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.hastakala.shop.app-merged_res-58:/layout_activity_login.xml.flat",
+        "source": "com.hastakala.shop.app-main-60:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.hastakala.shop.app-merged_res-58:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.hastakala.shop.app-main-60:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.hastakala.shop.app-merged_res-58:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.hastakala.shop.app-main-60:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.hastakala.shop.app-merged_res-58:/layout_item_product_card.xml.flat",
+        "source": "com.hastakala.shop.app-main-60:/layout/item_product_card.xml"
+    },
+    {
+        "merged": "com.hastakala.shop.app-merged_res-58:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.hastakala.shop.app-main-60:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.hastakala.shop.app-merged_res-58:/layout_activity_billing.xml.flat",
+        "source": "com.hastakala.shop.app-main-60:/layout/activity_billing.xml"
+    },
+    {
+        "merged": "com.hastakala.shop.app-merged_res-58:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.hastakala.shop.app-main-60:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.hastakala.shop.app-merged_res-58:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.hastakala.shop.app-main-60:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.hastakala.shop.app-merged_res-58:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.hastakala.shop.app-main-60:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.hastakala.shop.app-merged_res-58:/layout_activity_stock.xml.flat",
+        "source": "com.hastakala.shop.app-main-60:/layout/activity_stock.xml"
+    },
+    {
+        "merged": "com.hastakala.shop.app-merged_res-58:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.hastakala.shop.app-main-60:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.hastakala.shop.app-merged_res-58:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.hastakala.shop.app-main-60:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.hastakala.shop.app-merged_res-58:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.hastakala.shop.app-main-60:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.hastakala.shop.app-merged_res-58:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.hastakala.shop.app-main-60:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.hastakala.shop.app-merged_res-58:/layout_activity_main.xml.flat",
+        "source": "com.hastakala.shop.app-main-60:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.hastakala.shop.app-merged_res-58:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.hastakala.shop.app-main-60:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.hastakala.shop.app-merged_res-58:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.hastakala.shop.app-main-60:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.hastakala.shop.app-merged_res-58:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.hastakala.shop.app-main-60:/mipmap-mdpi/ic_launcher_foreground.webp"
+    }
+]

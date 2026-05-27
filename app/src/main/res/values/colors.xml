@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Colors - Earthy Artisan Palette -->
+    <color name="primary">#5D4037</color>          <!-- Deep Brown -->
+    <color name="primary_variant">#4E342E</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_primary_variant">#D7CCC8</color>
+
+    <color name="secondary">#FF6F00</color>         <!-- Amber -->
+    <color name="on_secondary">#FFFFFF</color>
+
+    <color name="background">#FFF8F5</color>        <!-- Warm off-white -->
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F5EFEA</color>
+
+    <color name="text_primary">#3E2723</color>
+    <color name="text_secondary">#795548</color>
+
+    <!-- Status Colors -->
+    <color name="success">#2E7D32</color>
+    <color name="warning">#E65100</color>
+    <color name="warning_bg">#FFF3E0</color>
+    <color name="error">#C62828</color>
+
+    <!-- Navigation Cards -->
+    <color name="card_bill">#FFF9C4</color>         <!-- Soft yellow -->
+    <color name="card_stock">#E8F5E9</color>        <!-- Soft green -->
+    <color name="card_income">#E3F2FD</color>       <!-- Soft blue -->
+
+    <!-- Product Category Chips (login screen) -->
+    <color name="chip_bag">#FFCCBC</color>
+    <color name="chip_basket">#D7CCC8</color>
+    <color name="chip_keychain">#FFF9C4</color>
+    <color name="chip_pouch">#F8BBD0</color>
+    <color name="chip_jewel">#FFFDE7</color>
+    <color name="chip_coaster">#EFEBE9</color>
+
+    <!-- Chart Colors -->
+    <color name="chart1">#E64A19</color>
+    <color name="chart2">#F57C00</color>
+    <color name="chart3">#388E3C</color>
+    <color name="chart4">#1565C0</color>
+    <color name="chart5">#6A1B9A</color>
+    <color name="chart6">#00838F</color>
+</resources>

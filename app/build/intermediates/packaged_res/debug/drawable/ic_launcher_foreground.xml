@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Simple handbag icon -->
+    <path
+        android:fillColor="@color/on_primary"
+        android:pathData="M38,45 Q38,38 45,35 L63,35 Q70,38 70,45 L70,70 Q70,74 66,74 L42,74 Q38,74 38,70 Z"/>
+    <path
+        android:fillColor="@color/primary_variant"
+        android:pathData="M47,35 Q47,28 54,28 Q61,28 61,35"/>
+    <path
+        android:fillColor="@color/primary"
+        android:pathData="M44,52 L64,52"/>
+    <path
+        android:strokeColor="@color/primary"
+        android:strokeWidth="2"
+        android:pathData="M44,52 L64,52"/>
+</vector>

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.hastakala.shop.app-mergeDebugResources-57:/layout/activity_stock.xml",
+        "source": "com.hastakala.shop.app-main-60:/layout/activity_stock.xml"
+    },
+    {
+        "merged": "com.hastakala.shop.app-mergeDebugResources-57:/layout/item_sale_row.xml",
+        "source": "com.hastakala.shop.app-main-60:/layout/item_sale_row.xml"
+    },
+    {
+        "merged": "com.hastakala.shop.app-mergeDebugResources-57:/layout/activity_income.xml",
+        "source": "com.hastakala.shop.app-main-60:/layout/activity_income.xml"
+    },
+    {
+        "merged": "com.hastakala.shop.app-mergeDebugResources-57:/layout/item_product_card.xml",
+        "source": "com.hastakala.shop.app-main-60:/layout/item_product_card.xml"
+    },
+    {
+        "merged": "com.hastakala.shop.app-mergeDebugResources-57:/layout/activity_login.xml",
+        "source": "com.hastakala.shop.app-main-60:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.hastakala.shop.app-mergeDebugResources-57:/layout/activity_billing.xml",
+        "source": "com.hastakala.shop.app-main-60:/layout/activity_billing.xml"
+    },
+    {
+        "merged": "com.hastakala.shop.app-mergeDebugResources-57:/layout/activity_main.xml",
+        "source": "com.hastakala.shop.app-main-60:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.hastakala.shop.app-mergeDebugResources-57:/layout/item_stock_row.xml",
+        "source": "com.hastakala.shop.app-main-60:/layout/item_stock_row.xml"
+    }
+]
